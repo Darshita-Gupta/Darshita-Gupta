@@ -87,14 +87,14 @@
 
 ## 💼 Experience
 
-### 💼 Infosys Springboard Internship (2025)
-AI Speech-to-Speech Translation System using Azure OpenAI and Cognitive Services.
+### 🌱 1M1B Foundation Intern (June2026-Present)
+Green Skills & Applied AI Program • Climate Intelligence • Sustainability Analytics
 
-### 🚀 Innovation Ambassador (2024-Present)
-Promoting innovation, entrepreneurship, and student-led initiatives.
+### 💼 Infosys Springboard Intern (Oct.2025-Jan.2026)
+AI Speech-to-Speech Translation System • Azure OpenAI • Cognitive Services
 
-### 🎓 B.Tech CSE (AI) (2023–Present)
-ABES Institute of Technology
+### 🚀 Innovation Ambassador, Institution's Innovation Council (MoE) (2024–Present)
+Innovation • Entrepreneurship • Student-Led Initiatives
 
 ---
 
@@ -102,7 +102,7 @@ ABES Institute of Technology
 
 # 💬 Let's Build Together
 
-*"Technology becomes meaningful when it solves real-world problems."*
+*"The best ideas are not the ones imagined, but the ones brought to life."*
 
 I'm interested in:
 
