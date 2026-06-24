@@ -32,33 +32,17 @@
 
 ---
 
-# ⚡ About Me
+## ⚡ About Me
 
-```typescript
-const darshita = {
-  role: "AI Engineer & Full-Stack Developer",
-  internship: "Former Infosys Intern",
-  leadership: "Innovation Ambassador",
+- 🤖 AI & Full-Stack Developer
+- 💼 Former Infosys Intern
+- 🚀 Innovation Ambassador
+- 🎙️ Passionate about Voice AI & Generative AI
+- ⛓️ Exploring Blockchain Applications
+- 🎤 Anchored 35+ Institutional, Technical & National-Level Events
+- 🌱 Currently building intelligent AI-powered systems
 
-  focus: [
-    "Generative AI",
-    "Voice AI",
-    "RAG Systems",
-    "Blockchain Applications"
-  ],
 
-  achievements: [
-    "35+ Institutional, Technical & National-Level Events",
-    "4 Major Technical Projects"
-  ],
-
-  currently: "Building intelligent systems powered by AI",
-
-  motto: "Technology should solve real-world problems."
-};
-```
-
----
 
 # 🏆 Highlights
 
@@ -101,19 +85,16 @@ const darshita = {
 
 ---
 
-# 💼 Experience Timeline
+## 💼 Experience
 
-```text
-2025 ─ Infosys Springboard Internship
-       AI Speech-to-Speech Translation System
-       Azure OpenAI & Cognitive Services
+### 💼 Infosys Springboard Internship (2025)
+AI Speech-to-Speech Translation System using Azure OpenAI and Cognitive Services.
 
-2024 ─ Innovation Ambassador
-       Student Innovation Initiatives
+### 🚀 Innovation Ambassador (2024-Present)
+Promoting innovation, entrepreneurship, and student-led initiatives.
 
-2023 ─ B.Tech Computer Science Engineering
-       ABES Institute of Technology
-```
+### 🎓 B.Tech CSE (AI) (2023–Present)
+ABES Institute of Technology
 
 ---
 
